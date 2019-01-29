@@ -1,4 +1,4 @@
 # deneme
- Hello Words
+ Hello World
  Merhaba Insanlar
- Mein name ist Mustafa, Ich komme aus der Turkie
+ Mein name ist Mustafa, ich komme aus der Turkei
